@@ -1,1 +1,1 @@
-# Desafio-Movimentando-as-Pe-as-do-xadrez
+# Desafio-Movimentando-as-Peças-do-xadrez
